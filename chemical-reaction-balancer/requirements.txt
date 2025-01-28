@@ -1,0 +1,7 @@
+re
+math
+functools
+sympy
+
+
+# pip install -r requirements.txt
